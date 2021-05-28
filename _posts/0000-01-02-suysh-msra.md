@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+this three dot bs is confusing 
 Use the left arrow to go back!
